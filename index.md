@@ -38,7 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-
 <!-- Load Facebook SDK for JavaScript -->
       <div id="fb-root"></div>
       <script>
@@ -48,7 +47,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
             version          : 'v6.0'
           });
         };
-
+</script>
+<script defer type="text/javascript">
         (function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;
@@ -57,7 +57,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));</script>
 
-      <!-- Your customer chat code -->
+<!-- Your customer chat code -->
       <div class="fb-customerchat"
         attribution=setup_tool
         page_id="106045897727018"
