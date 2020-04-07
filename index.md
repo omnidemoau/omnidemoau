@@ -47,13 +47,13 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
         js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js';
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
-</script>;
+</script>
 
 <!-- Your customer chat code -->
-      <div class="fb-customerchat"
+<div class="fb-customerchat"
         attribution=setup_tool
         page_id="106045897727018"
-  logged_in_greeting="Hi! This is the FB auto Greeting Message"
-  logged_out_greeting="Hi! This is the FB auto Greeting Message">
-      </div>
+        logged_in_greeting="Hi! This is the FB auto Greeting Message"
+        logged_out_greeting="Hi! This is the FB auto Greeting Message">
+</div>
 <!-- End Load Facebook SDK for JavaScript -->
