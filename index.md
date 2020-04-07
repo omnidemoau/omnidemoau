@@ -47,7 +47,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
             version          : 'v6.0'
           });
         };
-</script>
+</script>;
 <script defer type="text/javascript">
         (function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
