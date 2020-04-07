@@ -47,7 +47,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
           });
         };
 </script>
-
+```
 <script defer type="text/javascript">
         (function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
@@ -57,7 +57,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
 </script>
-
+```
 <!-- Your customer chat code -->
 <div class="fb-customerchat"
         attribution=setup_tool
