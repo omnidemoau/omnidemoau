@@ -56,4 +56,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
         js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js';
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
-</script>
+</script>;
