@@ -35,3 +35,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<!-- OmniChat web-chat widget -->
+<script>
+    window.omnichatConfig = {
+    retailerId: "3j6O0XjYkj"
+    };
+</script>
+<script defer type="text/javascript">
+    !function(){var t=document.createElement("script");t.type="text/javascript",t.defer=!0,t.src="https://static.omni.chat/web-chat/web-chat.min.js",t.onload=function(){OmniChatWebChat.init(window.omnichatConfig)};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}();
+</script>
+<!-- OmniChat web-chat widget -->
